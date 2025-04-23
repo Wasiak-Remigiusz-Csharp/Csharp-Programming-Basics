@@ -1,4 +1,9 @@
-# Sample Projects for Learning
+<h1 align="center">Sample Projects for Learning</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C# Logo" width="70"/>
+</p>
+
 
 This repository contains various C# projects and exercises created for learning and practice purposes. The folder names indicate the type of content and its purpose:
 
