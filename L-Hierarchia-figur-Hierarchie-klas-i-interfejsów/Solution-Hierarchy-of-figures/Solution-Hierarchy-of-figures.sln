@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D6FD5320-4402-419C-BEE9-5E435CB16004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguryLib", "FiguryLib\FiguryLib.csproj", "{360F78D2-5C54-4975-97AE-76D2BEF1D31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6FD5320-4402-419C-BEE9-5E435CB16004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FD5320-4402-419C-BEE9-5E435CB16004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FD5320-4402-419C-BEE9-5E435CB16004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FD5320-4402-419C-BEE9-5E435CB16004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360F78D2-5C54-4975-97AE-76D2BEF1D31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360F78D2-5C54-4975-97AE-76D2BEF1D31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360F78D2-5C54-4975-97AE-76D2BEF1D31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360F78D2-5C54-4975-97AE-76D2BEF1D31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81DE7D15-AF64-43F3-B4EE-FCA41880684A}
+	EndGlobalSection
+EndGlobal
